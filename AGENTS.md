@@ -1,4 +1,4 @@
-# Claude Guidance
+# Personal Codex Guidance
 
 ## Project
 
@@ -18,7 +18,7 @@ The emoji can be subtle, dramatic, funny, relieved, proud, confused, nervous, af
 
 If the user explicitly expresses a mood, follow that. If the mood is mixed, choose the dominant recent feeling. If there is no emotional signal, choose a restrained neutral or mild face.
 
-Use only one emoji at the start of the first line, for example:
+Use only one face emoji at the start of the first line, for example:
 
 ```text
 😄 feat: add mood-aware commit guidance
